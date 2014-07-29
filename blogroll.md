@@ -2,23 +2,18 @@
 
 Every day after work when I get back home, I open up 30 some tabs and visit each of these sites.
 
-+ [blog.averyvery.com](http://blog.averyvery.com/)
 + [kottke.org](http://kottke.org/)
-+ [jxnblk.tumblr.com](http://jxnblk.tumblr.com/)
 + [friendsoftype.com](http://friendsoftype.com/)
-+ [www.thisiscolossal.com](http://www.thisiscolossal.com/)
++ [Peter Vidani](http://blog.petervidani.com/)
++ [@averyclever](https://twitter.com/averyclever)
 + [thisisnthappiness.com](http://thisisnthappiness.com/)
-+ [tumblr.christynyiri.com](http://tumblr.christynyiri.com/)
 + [chrisglass.com](http://chrisglass.com/)
-+ [josephschmitt.me](http://josephschmitt.me/)
 + [dvdp.tumblr.com](http://dvdp.tumblr.com/)
-+ [philnoto.tumblr.com](http://philnoto.tumblr.com/)
-+ [Paul Irish Google+](https://plus.google.com/113127438179392830442/posts)
-+ [itsfullofstars.tumblr.com](http://itsfullofstars.tumblr.com/)
-+ [inky.tumblr.com](http://inky.tumblr.com/)
-+ [blog.pieratt.com](http://blog.pieratt.com/)
-+ [jstn.cc](http://jstn.cc/)
-+ [thepilcrow.com](http://thepilcrow.com/)
++ [Bryan Konietzko](http://bryankonietzko.tumblr.com/)
++ [Sam Alive](http://samalive.tumblr.com/)
++ [Inky](http://tumblr.inky.me/)
++ [Ben Pieratt](http://blog.pieratt.com/)
++ [Justin Ouellette](http://jstn.cc/)
 
 ## Retired
 
@@ -27,3 +22,12 @@ Every day after work when I get back home, I open up 30 some tabs and visit each
 + [katieobriensf.posterous.com](http://katieobriensf.posterous.com/)
 + [mwunsch.tumblr.com](http://mwunsch.tumblr.com/)
 + [creativejs.com](http://creativejs.com/)
++ [blog.averyvery.com](http://blog.averyvery.com/)
++ [jxnblk.tumblr.com](http://jxnblk.tumblr.com/)
++ [www.thisiscolossal.com](http://www.thisiscolossal.com/)
++ [tumblr.christynyiri.com](http://tumblr.christynyiri.com/)
++ [josephschmitt.me](http://josephschmitt.me/)
++ [philnoto.tumblr.com](http://philnoto.tumblr.com/)
++ [Paul Irish Google+](https://plus.google.com/113127438179392830442/posts)
++ [itsfullofstars.tumblr.com](http://itsfullofstars.tumblr.com/)
++ [thepilcrow.com](http://thepilcrow.com/)
