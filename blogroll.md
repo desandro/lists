@@ -9,14 +9,18 @@ Every day after work when I get back home, I open up 30 some tabs and visit each
 + [thisisnthappiness.com](http://thisisnthappiness.com/)
 + [chrisglass.com](http://chrisglass.com/)
 + [dvdp.tumblr.com](http://dvdp.tumblr.com/)
++ [Robaato's Corner](http://robscorner.tumblr.com/)
 + [Bryan Konietzko](http://bryankonietzko.tumblr.com/)
 + [Sam Alive](http://samalive.tumblr.com/)
++ [Uzicopter](http://uzicopter.tumblr.com)
++ [Chris Coyier](http://chriscoyier.net/)
++ [CT Chrysler](http://ctchrysler.tumblr.com/)
 + [Inky](http://tumblr.inky.me/)
-+ [Ben Pieratt](http://blog.pieratt.com/)
 + [Justin Ouellette](http://jstn.cc/)
 
 ## Retired
 
++ [Ben Pieratt](http://blog.pieratt.com/)
 + [trash.davidcole.me](http://trash.davidcole.me/)
 + [9-bits](http://9-bits.com/)
 + [katieobriensf.posterous.com](http://katieobriensf.posterous.com/)
