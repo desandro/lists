@@ -1,5 +1,6 @@
 # Sites I worked on
 
++ [CodePen editor](http://codepen.io/pen) - [Editor panel resizing](https://twitter.com/desandro/status/647139066840903680),  [expanding](https://twitter.com/desandro/status/662678761171648512), [modals](https://twitter.com/desandro/status/657216413451558913)
 + [2012.twitter.com](http://2012.twitter.com)
 + [icw.uschamber.com/reportcard/](http://icw.uschamber.com/reportcard/)
 + [nclud.com](http://nclud.com) v3

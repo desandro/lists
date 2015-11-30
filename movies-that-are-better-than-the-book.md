@@ -4,3 +4,4 @@
 + High Fidelity
 + The Right Stuff
 + Wonderboys
++ Ghost in the Shell
