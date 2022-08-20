@@ -1,6 +1,10 @@
 # Blogroll
 
-Every day after work when I get back home, I open up 30 some tabs and visit each of these sites.
+**Deprecated**
+
+Years ago, every day after work when I got back home, I opened up 30 some tabs and visited each of these sites.
+
+## Retired
 
 + [kottke.org](http://kottke.org/)
 + [friendsoftype.com](http://friendsoftype.com/)
@@ -15,18 +19,6 @@ Every day after work when I get back home, I open up 30 some tabs and visit each
 + [Chris Coyier](http://chriscoyier.net/)
 + [Justin Ouellette](http://jstn.cc/)
 + [Zone of the Chicken Tenders](http://zoneofthechickentenders.tumblr.com/)
-
-## Twitter no follow, but daily visit
-
-+ [@averyclever](https://twitter.com/averyclever)
-+ [@HozZAaH](https://twitter.com/HozZAaH)
-+ [@_Gabrielfer](https://twitter.com/_Gabrielfer)
-+ [@photonstorm](https://twitter.com/photonstorm)
-+ [@antonkudin](https://twitter.com/antonkudin)
-+ [@LeSeanThomas](https://twitter.com/LeSeanThomas)
-
-## Retired
-
 + [Ben Pieratt](http://blog.pieratt.com/)
 + [trash.davidcole.me](http://trash.davidcole.me/)
 + [9-bits](http://9-bits.com/)
@@ -49,3 +41,12 @@ Every day after work when I get back home, I open up 30 some tabs and visit each
 + [Robaato's Corner](http://robscorner.tumblr.com/)
 + [chrisglass.com](http://chrisglass.com/)
 + [dvdp.tumblr.com](http://dvdp.tumblr.com/)
+
+Twitter no follow, but daily visit
+
++ [@averyclever](https://twitter.com/averyclever)
++ [@HozZAaH](https://twitter.com/HozZAaH)
++ [@_Gabrielfer](https://twitter.com/_Gabrielfer)
++ [@photonstorm](https://twitter.com/photonstorm)
++ [@antonkudin](https://twitter.com/antonkudin)
++ [@LeSeanThomas](https://twitter.com/LeSeanThomas)
